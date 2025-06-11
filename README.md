@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Me
 
-I am a Software Test Engineer.
+I am a Developer / Software Tester
 
 ## Current Projects
 
