@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_github.jpeg" alt="Your Logo" width="240">
+  <img src="logo_github.jpeg" alt="Your Logo" width="200">
 </p>
 
 <p align="center">
@@ -16,6 +16,10 @@
 # 👨‍💻 About Me
 
 I am a Software Test Engineer.
+
+## Current Projects
+
+https://github.com/agus-y-stefi/auto-sales-admin
 
 ---
 
